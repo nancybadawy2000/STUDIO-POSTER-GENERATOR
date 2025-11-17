@@ -1,0 +1,5 @@
+{
+  "name": "Studio Poster Builder",
+  "description": "An application for interior design students to generate a series of four coordinated, professional A0 studio posters from four panel images and project details.",
+  "requestFramePermissions": []
+}
